@@ -88,3 +88,8 @@ None (Only pipelines for CI and daily)
 
 ## Skills
 Glorious 4x4 test matrix!!! :bowtie: :star2: :heavy_check_mark:
+___
+
+## Related Content
+* [Pipelines in Azure DevOps](https://fuselabs.visualstudio.com/SDK_v4/_build?treeState=XERvdE5ldCRcRG90TmV0XEZ1bmN0aW9uYWxUZXN0cw%3D%3D&view=folders)
+* [Bot Framework SDK Product Pipelines Overview](https://github.com/microsoft/botframework-sdk/blob/master/specs/BotFrameworkSdkPipelinesOverview.md)
